@@ -83,4 +83,3 @@ def motor_back(speed):
     GPIO.output(BIN2,0)
     R_Motor.ChangeDutyCycle(speed)
 
-
