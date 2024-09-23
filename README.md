@@ -55,6 +55,11 @@
 - **OpenCV**: 이미지 처리
 - **TensorFlow 또는 PyTorch**: YOLO 모델 사용
 - **Raspberry Pi**: 하드웨어 제어
+## 예시 
+<div style='position: relative; width: 100%; height: 0; padding-top: 56.25%; overflow: hidden; will-change: transform;'>
+            <iframe loading='lazy' style='position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;' src='https:&#x2F;&#x2F;www.miricanvas.com&#x2F;v&#x2F;12jpxch?embed'>
+            </iframe>
+</div>
 
 ## 결론
 이 프로젝트는 YOLO와 PID 제어 알고리즘을 활용하여 효율적인 사람 추적 자동차를 만드는 것을 목표로 하며, 하드웨어 및 소프트웨어 통합 능력을 향상시키는 좋은 기회가 될 것입니다.
