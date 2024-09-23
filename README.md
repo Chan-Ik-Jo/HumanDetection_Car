@@ -56,7 +56,7 @@
 - **TensorFlow 또는 PyTorch**: YOLO 모델 사용
 - **Raspberry Pi**: 하드웨어 제어
 ## 예시 
-<img width="50%" src="https://github.com/user-attachments/assets/3c639271-5c6d-4c4f-9a54-7f4807354c1c"/>
+<img width="100%" src="https://github.com/user-attachments/assets/3c639271-5c6d-4c4f-9a54-7f4807354c1c"/>
 
 
 ## 결론
